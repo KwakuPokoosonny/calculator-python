@@ -11,3 +11,5 @@ This is a beginner-level Python project that functions as a basic calculator. It
 1. Run the file using Python:
 ```bash
 python calculator.py
+---
+**Author:** Kwaku Pokoosonny
