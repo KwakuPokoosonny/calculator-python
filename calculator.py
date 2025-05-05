@@ -34,6 +34,13 @@ elif choice == '3':
     
     # This is an update made in the FeatureBaseCalculator branch
 
+def divide(a, b):
+    if b != 0:
+        return a / b
+    else:
+        return "Cannot divide by zero"
+
+
 elif choice == '4':
     print(f"{num1} / {num2} = {divide(num1, num2)}")
 else:
